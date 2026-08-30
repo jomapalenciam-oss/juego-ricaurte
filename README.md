@@ -7,7 +7,6 @@ import wave
 import struct
 import os
 
-
 pygame.init()
 
 try:
