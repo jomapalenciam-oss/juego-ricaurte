@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Audio generado en tiempo de ejecución (se recrea solo)
+*.wav
+
+# Editores
+.vscode/
+.idea/
+*.swp
+.DS_Store
